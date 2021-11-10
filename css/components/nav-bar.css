@@ -33,3 +33,7 @@
   left: 30px;
   bottom: 30px;
 }
+.nav__set {
+  position: relative;
+  display: flex;
+}
