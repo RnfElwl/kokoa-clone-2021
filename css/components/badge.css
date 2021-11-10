@@ -18,11 +18,11 @@
   position: absolute;
   right: -5px;
 }
-.alarm1 {
+.alarm_set {
   background-color: tomato;
   width: 6px;
   height: 6px;
   border-radius: 20px;
   position: absolute;
-  right: -0.001px;
+  right: -1px;
 }
