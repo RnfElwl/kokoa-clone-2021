@@ -16,13 +16,19 @@
   display: flex;
   border-radius: 20px;
   position: absolute;
-  right: -5px;
+  right: -6px;
 }
 .alarm_set {
   background-color: tomato;
   width: 6px;
   height: 6px;
   border-radius: 20px;
+  justify-content: center;
+  align-content: center;
   position: absolute;
-  right: -1px;
+  left: -5px;
+  top: -5px;
+}
+.badge-set {
+  position: relative;
 }
